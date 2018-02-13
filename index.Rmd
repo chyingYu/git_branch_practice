@@ -7,6 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 library("ggplot2")
 ```
+- Insert random text here
 
 This is a highly informative pie chart:
 
